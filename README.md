@@ -39,7 +39,7 @@ cd thinclient-rdp-kiosk
 
 ## Fotos
 ![Login Screenshot](docs/images/login.png)
-
+![Login Screenshot](docs/images/conexión.png)
 ---
 
 Autor: Teodosio Donaire González — Licencia: MIT
