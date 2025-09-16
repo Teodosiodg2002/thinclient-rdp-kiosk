@@ -32,13 +32,10 @@ sudo apt install -y python3 python3-gi remmina remmina-plugin-rdp yad feh openbo
 ## Instalación resumida
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/TU_USUARIO/thinclient-rdp-kiosk.git
+git clone https://github.com/Teodosiodg2002/thinclient-rdp-kiosk.git
 cd thinclient-rdp-kiosk
 ```
 2. Copiar `src/rdp-login.py` a `/home/kiosko/bin/` y ajustar permisos (ver `docs/instalacion.md` para instrucciones completas).
 
-## Contribuciones
-Si quieres mejorar el proyecto, abre un issue o un pull request. Añade pruebas y documentación para cambios relevantes.
-
 ---
-Autor: TU_NOMBRE — Licencia: MIT
+Autor: Teodosio Donaire González — Licencia: MIT
