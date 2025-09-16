@@ -37,5 +37,9 @@ cd thinclient-rdp-kiosk
 ```
 2. Copiar `src/rdp-login.py` a `/home/kiosko/bin/` y ajustar permisos (ver `docs/instalacion.md` para instrucciones completas).
 
+## Fotos
+![Login Screenshot](docs/images/login.png)
+
 ---
+
 Autor: Teodosio Donaire González — Licencia: MIT
